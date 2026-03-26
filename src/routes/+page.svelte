@@ -6,7 +6,7 @@
 <div class="flex flex-col items-center justify-center h-full w-full bg-inherit">
     <div class="floatin-box">
         <Box>
-            <div class="text-center h-full w-full min-w-120">
+            <div class="text-center h-full w-full min-w-[90vw] sm:min-w-120">
                 <h1>Yikes...</h1>
 
                 <p>There's nothing here right now.</p>
